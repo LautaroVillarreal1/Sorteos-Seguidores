@@ -1,0 +1,6 @@
+1: Descarga la extencion'->https://chromewebstore.google.com/detail/igexporter-ig-follower-ex/chmicphoaiifenjibjabgnhpilccfilo'.
+2. Entra a la extencion, pone tu usuario de instagram (no pide contraseña) y descarga el archivo con todos tu seguidores.
+3. Corta el archivo de los seguidores y pegalo en la carpeta "usuarios".(sino lo haces no va a funcionar).
+4. En "archivoCsv = 'IGExporter-usuario-xx-followers.csv'" deberas reemplazar IGExporter-usuario-xx-followers por el nombre del archivo que descargaste junto con .csv 
+5. por ultimo tenes que llamar a la funcion "etiquetado" escribiendo etiquetado() abajo del todo, eso comenzara a etiquetar a
+    cada uno de los usuarios a los que sigas 
