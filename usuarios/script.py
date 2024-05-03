@@ -7,7 +7,7 @@ x="lauutarov"
 'https://chromewebstore.google.com/detail/igexporter-ig-follower-ex/chmicphoaiifenjibjabgnhpilccfilo'
 
 #aca abajo el archivo que acabas de descargar(IGExporter-usuario-xx-followers). Si no esta dentro de la carpeta no va a funcionar.
-archivoCsv = 'IGExporter-lauutarov-234-followers.csv'
+archivoCsv = 'IGExporter-usuario-xx-followers.csv'
 
 
 #agrega a todos los usuarios del archivo a una lista.
